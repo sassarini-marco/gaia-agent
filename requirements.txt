@@ -1,0 +1,36 @@
+# Agent framework
+smolagents[litellm,google,transformers,audio]
+
+# Settings and utilities
+pydantic-settings
+pyyaml
+requests
+datasets
+gradio
+
+# Search Tools
+wikipedia-api
+duckduckgo-search
+google-search-results
+google-auth
+google-cloud-aiplatform
+
+# Dependencies for specific file types used by mdconvert:
+markdownify>=0.11.6
+beautifulsoup4>=4.11.1
+pdfminer.six>=20221105
+python-pptx>=0.6.21
+mammoth>=1.6.0
+pandas>=1.5.0
+openpyxl>=3.0.10
+puremagic>=1.18 # For file type detection
+pydub # For audio conversion
+SpeechRecognition # For audio transcription
+youtube_transcript_api # For youtube handling
+pathvalidate
+
+# visual tasks
+transformers
+
+
+

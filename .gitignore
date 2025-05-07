@@ -1,0 +1,13 @@
+/.env
+/scripts/data/gaia/gaia_level1_test.jsonl
+/scripts/data/gaia/gaia_level1_validation.jsonl
+/.idea/HF_agent_course_Final_Assignment_Template.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/scripts/data/gaia/results/gaia_level1_validation.jsonl
+/.idea/git_toolbox_prj.xml
+/scripts/data/evaluation_results/failures.jsonl
+/scripts/data/evaluation_results/agent_results.jsonl
